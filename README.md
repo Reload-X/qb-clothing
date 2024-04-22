@@ -1,5 +1,5 @@
 Hello, gamers today I am going to release another UI script. **This is a modified UI version of [**qb-clothing**](https://github.com/qbcore-framework/qb-clothing) and it's totally free.** I am a **[Full Stack Developer](https://mrsahil.in/)** and if you want me to create custom UIs for your FiveM servers feel free to contact me.
-**![e327e4f7ab6f11e3c6963e67f79017b06a9115f5.png](https://dunb17ur4ymx4.cloudfront.net/wysiwyg/1172970/e327e4f7ab6f11e3c6963e67f79017b06a9115f5.png)**
+**[![e327e4f7ab6f11e3c6963e67f79017b06a9115f5.png](https://dunb17ur4ymx4.cloudfront.net/wysiwyg/1172970/e327e4f7ab6f11e3c6963e67f79017b06a9115f5.png)](https://github.com/Reload-X/qb-clothing/assets/167034229/1987d4cc-0db1-49ae-923c-1667c6cbc485)**
 
 ## **Features (All same as default qb-clothing)**
 
